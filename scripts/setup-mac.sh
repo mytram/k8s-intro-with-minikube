@@ -1,5 +1,7 @@
 #!/bin/sh
 
+#
+brew install kubernetes-cli
 brew install minikube
 brew install hyperkit
 
